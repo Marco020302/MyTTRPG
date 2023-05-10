@@ -2,8 +2,17 @@
 {"dg-publish":true,"permalink":"/my-ttrpg/italiano/00-benvenuto/","tags":["gardenEntry"]}
 ---
 
-# Come Utilizzare Questo Regolamento
+# Benvenuto!
+Benvenuto avventuriero! Vedo che sei nuovo di queste parti. Lascia che ti indichi la via per l'avventura che più ti aggrada. Abbiamo un sistema di cripte a ovest sotto le *Montagne di Vetro* che sta giusto aspettando che qualcuno vada a recuperarne i tesori! Oppure ti interessa di più un politico corrotto che sta rendendo la vita a *Meristat* impossibile? No, no, tu cerchi qualcosa d'altro, qualcosa di nuovo... Una maga sparita nella *Palude dei Vermi* che si dice essere l'unica in grado di parlare con i morti! A no? Uhmm... Se mi segui ad Est posso portarti nella *Caverna della Follia*, oppure a Nord conosco un goblin che vorrebbe diventare umano, saresti interessato? Ma sai di cosa sto parlando almeno? Ma allora tu hai bisogno proprio di partire dall'inizio!
+Allora mi presento, io sono *Frank* e questo è il mondo in cui ci ritroviamo...
 
+# Indice
+- *Personaggi*
+	- [[MyTTRPG/Italiano/01_ComposizioneDeiPersonaggi#Composizione dei Personaggi\|Composizione]]
+	- [[MyTTRPG/Italiano/01_ComposizioneDeiPersonaggi#Creazione dei Personaggi\|Creazione]]
+
+
+# Come Utilizzare Questo Regolamento
 ## Programma di lettura (Obsidian)
 Prima di cominciare mi sembra giusto introdurvi al mezzo in cui questo regolamento è servito.
 Per prima cosa è stato pensato per essere letto e utilizzato con l'ausilio di [Obsidian](https://obsidian.md), un software gratuito che vi permetterà di, al meglio, utilizzare questo documento. Vi sono svariati utilizzi di *features* presenti solo in questo programma. Inoltre è molto comodo per prendere qualsiasi tipo di appunti, se non lo avete mai utilizzato vi suggerisco di impararne anche le sole basi.
@@ -34,19 +43,7 @@ Non è necessario ricordale tutte a memoria, i titoli uniti al loro contenuto so
 ## Scrittura
 A differenza di molti regolamenti, ma non unico nel suo genere, questo regolamento si vuole, almeno in parte, sviluppare come un discorso fra te, l'*avventuriero*, e me, quello che sa tutto.
 
-# Benvenuto!
-Benvenuto avventuriero! Vedo che sei nuovo di queste parti. Lascia che ti indichi la via per l'avventura che più ti aggrada. Abbiamo un sistema di cripte a ovest sotto le *Montagne di Vetro* che sta giusto aspettando che qualcuno vada a recuperarne i tesori! Oppure ti interessa di più un politico corrotto che sta rendendo la vita a *Meristat* impossibile? No, no, tu cerchi qualcosa d'altro, qualcosa di nuovo... Una maga sparita nella *Palude dei Vermi* che si dice essere l'unica in grado di parlare con i morti! A no? Uhmm... Se mi segui ad Est posso portarti nella *Caverna della Follia*, oppure a Nord conosco un goblin che vorrebbe diventare umano, saresti interessato? Ma sai di cosa sto parlando almeno? Ma allora tu hai bisogno proprio di partire dall'inizio!
-Allora mi presento, io sono *Frank* e questo è il mondo in cui ci ritroviamo...
-
-# Indice
-
-- *Personaggi*
-	- [[MyTTRPG/Italiano/01_ComposizioneDeiPersonaggi#Composizione dei Personaggi\|Composizione]]
-	- [[MyTTRPG/Italiano/01_ComposizioneDeiPersonaggi#Creazione dei Personaggi\|Creazione]]
-
-
 # Appendice
-
 ## Idee fondamentali nella creazione del gioco
 ### Non limitare l'immaginazione
 Le regole non devono essere ostacolo all'immaginazione dei giocatori o del *Game Master* (GM) ma uno strumento per gestire interazioni incerte e formare un'infrastruttura per i combattimenti.
