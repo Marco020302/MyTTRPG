@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/my-ttrpg/italiano/00-benvenuto/","tags":["gardenEntry"]}
 ---
 
-
 # Come Utilizzare Questo Regolamento
 
 ## Programma di lettura (Obsidian)
