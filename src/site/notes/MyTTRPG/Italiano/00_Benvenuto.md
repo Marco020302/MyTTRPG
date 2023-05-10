@@ -9,7 +9,7 @@ Allora mi presento, io sono *Frank* e questo è il mondo in cui ci ritroviamo...
 # Indice
 - *Personaggi*
 	- [[MyTTRPG/Italiano/01_ComposizioneDeiPersonaggi#Composizione dei Personaggi\|Composizione]]
-	- [[MyTTRPG/Italiano/01_ComposizioneDeiPersonaggi#Creazione dei Personaggi\|Creazione]]
+	- [[MyTTRPG/Italiano/02_CreazioneDelPersonaggio#Creazione dei Personaggi\|Creazione]]
 
 
 # Come Utilizzare Questo Regolamento
