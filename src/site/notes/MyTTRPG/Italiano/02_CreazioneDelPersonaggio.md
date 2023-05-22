@@ -16,6 +16,7 @@ Ricominciamo da capo, ma stavolta troviamo quello che più ti si addice:
 	- [[MyTTRPG/Italiano/02_CreazioneDelPersonaggio#Creazione dei Personaggi\|Comportamento]]
 - [[MyTTRPG/Italiano/02_CreazioneDelPersonaggio#Creazione dei Personaggi\|Razza]]
 - [[MyTTRPG/Italiano/02_CreazioneDelPersonaggio#Creazione dei Personaggi\|Ruolo nel Gruppo]]
+- [[MyTTRPG/Italiano/02_CreazioneDelPersonaggio#Composizione dei Personaggi\|Punti Epicità]]
 
 ## Caratteristiche
 Tra tutte le parti di un personaggio questa è quella dove spesso si ha meno controllo.
@@ -128,11 +129,15 @@ Per sapere in pratica cosa comporta riferirsi al [[MyTTRPG/Italiano/03_RuoliNelG
 Un *Guerriero* è colui che ha imparato a lottare fisicamente. Senza trucco e senza inganno, con una spranga porterà un malanno.
 Alcuni guerrieri sono diventati esperti arceri, mentre altri sono diventati esperti scudieri ed altri ancora schermidori. Altri hanno rinunciato alle armi per diventare maestri nel combattimento senza armi, o meglio, le loro mani sono diventate armi. Solitamente hanno una *Destrezza* o *Forza* particolarmente alte.
 
-### Ladri
+### Ladro
 Un *Ladro* è diventato abile nel nascondersi e mimetizzarsi, prende di soppiatto i suoi nemici e anche se lo vedono, spesso non vedono il colpo che gli sta per arrivare. Hanno imparato ad approfittare delle distrazioni dell'avversario per dare colpi difficili da schivare e troppo veloci per fermare. Spesso hanno un'*Intelligenza* o *Destrezza* particolarmente alte.
 
-### Chierici
+### Chierico
 I *Chierici* hanno giurato fedeltà ad un Dio e sono pronti a portare i suoi ideali in tutto il mondo e aiutare tutti coloro che lo pregano, questo non vuol dire che cercheranno di convertirti ogni istate della loro esistenza (per lo meno non tutti lo faranno) e non è detto che non ti aiutino se non preghi il loro Dio (alcuni sono però schizzinosi) ma tutto quello che fanno lo dedicano al loro Dio e questo in cambio gli dona poteri oltre ai limiti fisici dei mortali. È comune trovare *Chierici* con più *Intelligenza* della media, in quanto controllare la magia è difficile, e pregare un Dio di dartela a volte lo è di più.
 
-### Maghi
-I *Maghi* sono molto simili ai *Chierici* quando si parla di magie, molte infatti possono essere interscabiate fra loro, alcune delle più grandi differenze vengono dal loro diverso modo di apprendere la magia. Mentre i Chierici sono devoti ad un Dio che gli concende la magia i *Maghi* la imparano dai libri e possono imparare nuovi incantesimi da altri *Maghi* o da Scritti contenenti le istruzioni. Anche i *Maghi* sono noti per avere un'*Intelligenza* superiore alla media, dopo tutto non smettono mai di studiare.
+### Mago
+I *Maghi* sono molto simili ai *Chierici* quando si parla di magie, molte infatti possono essere interscabiate fra loro, alcune delle più grandi differenze vengono dal loro diverso modo di apprendere la magia. Mentre i Chierici sono devoti ad un Dio che gli concende la magia i *Maghi* la imparano dai libri e possono imparare nuovi incantesimi da altri *Maghi* o da Scritti contenenti le istruzioni. Anche i *Maghi* sono noti per avere un'*Intelligenza* superiore alla media, dopo tutto non smettono mai di studiare
+
+## Punti Epicità
+>[!todo] Punti Epicità
+>Aggiungere il numero di PE per livello e come sorteggiarli, SE sono sorteggiati
