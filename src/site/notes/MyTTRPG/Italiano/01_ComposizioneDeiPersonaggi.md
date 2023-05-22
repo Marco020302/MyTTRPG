@@ -19,6 +19,7 @@ Possiamo quindi suddividerti in:
 	- [[MyTTRPG/Italiano/01_ComposizioneDeiPersonaggi#Composizione dei Personaggi\|Comportamento]]
 - [[MyTTRPG/Italiano/01_ComposizioneDeiPersonaggi#Composizione dei Personaggi\|Razza]]
 - [[MyTTRPG/Italiano/01_ComposizioneDeiPersonaggi#Composizione dei Personaggi\|Ruolo nel Gruppo]]
+- [[MyTTRPG/Italiano/01_ComposizioneDeiPersonaggi#Composizione dei Personaggi\|Punti Epicità]]
 
 ## Caratteristiche
 Le caratteristiche sono delle valutazioni su tre aspetti fondamentali:
@@ -120,3 +121,8 @@ Tutti hanno bisogno di un gruppo e tutti i gruppi hanno bisogno di qualcuno come
 
 Chi si specializza nelle arti *magiche* si comporterà e avrà un ruolo diverso all'interno del gruppo rispetto a qualcuno che è ferrato nelle arti *marziali*!
 Vi sono alcuni che cominciano con un ruolo ma poi imparano cose da altri ruoli! Come i *Paladini*! Nati *guerrieri* ma hanno giurato fedeltà ad un dio ed hanno imparato alcuni trucchetti del *chierico*.
+
+## Punti Epicità
+I *Punti Epicità* ( **PE** ) sono quelli che distinguono un *popolano* qualsiasi da un *avventuriero* ed *eroe*. Non è da tutti essere **EPICI!**
+Mentre il contadino medio al primo *Colpo Fatale* ( **CF** ) muore, un avventuriero del tuo calibro può trovare un modo **EPICO** per evitarlo, o limitarne i danni a qualche graffio! Il numero di *PE* che hai rappresenta quanti colpi letali riuscirai ad evitare, ma non solo!
+I *PE* vengono anche utilizzati per fare *azioni* **EPICHE**, che gente comune non sarebbe neanche in grado di sognarsi. Molte *magie* utilizzano *PE* per migliorarne l'effetto!
