@@ -10,6 +10,10 @@ Allora mi presento, io sono *Frank* e questo è il mondo in cui ci ritroviamo...
 - *Personaggi*
 	- [[MyTTRPG/Italiano/01_ComposizioneDeiPersonaggi#Composizione dei Personaggi\|Composizione]]
 	- [[MyTTRPG/Italiano/02_CreazioneDelPersonaggio#Creazione dei Personaggi\|Creazione]]
+	- [[MyTTRPG/Italiano/03_RuoliNelGruppo#Ruoli Nel Gruppo\|Ruoli Nel Gruppo]]
+	- [[MyTTRPG/Italiano/04_Abilità#Abilità\|Abilità]]
+	- [[MyTTRPG/Italiano/05_TrattiRazziali#Tratti Raziali\|Tratti Raziali]]
+	- 
 
 
 # Come Utilizzare Questo Regolamento
