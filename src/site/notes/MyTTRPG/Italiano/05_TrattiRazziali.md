@@ -3,3 +3,7 @@
 ---
 
 # Tratti Raziali
+| Nome | Tipo |
+| ---- | ---- |
+
+{ .block-language-dataview}
